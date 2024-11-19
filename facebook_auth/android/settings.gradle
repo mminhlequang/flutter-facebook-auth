@@ -1,1 +1,2 @@
 rootProject.name = 'flutter_facebook_auth'
+include ':facebook-android-sdk'
